@@ -100,7 +100,11 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
+## Author
+Reham Aly
+
+---
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 
